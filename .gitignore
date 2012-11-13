@@ -1,0 +1,4 @@
+target/
+doc/
+test/
+.lein-failures
