@@ -1,4 +1,3 @@
-target/
-doc/
-test/
-.lein-failures
+/target
+/docs
+/.lein-failures
